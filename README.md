@@ -60,8 +60,8 @@ Este repositório contém o código-fonte completo do chatbot. Para executá-lo 
 
 **Clone o repositório:**
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/gabrielvelosomatutino/chatbot_node.js.git
+cd chatbot_node.js
 
 **Instale as dependências:**
 
