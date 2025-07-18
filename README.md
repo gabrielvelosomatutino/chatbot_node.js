@@ -1,4 +1,5 @@
 ***Chatbot de Atendimento para WhatsApp***
+
 **Introdução**
 Este projeto consiste em um chatbot multifuncional para WhatsApp, desenvolvido para automatizar e otimizar o atendimento ao cliente. A solução é projetada para ser flexível, atendendo múltiplos estabelecimentos ou filiais, e oferecendo um fluxo de conversa intuitivo para os usuários, ao mesmo tempo que provê um painel de controle e comandos administrativos para uma gestão eficiente dos atendimentos.
 
